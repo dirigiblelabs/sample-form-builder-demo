@@ -1,0 +1,7 @@
+{
+    "__comment":"This file is a demo data to be bound to the form",
+    "firstName":"John",
+    "lastName":"Smith",
+    "age":28,
+    "country":"BG"
+}
